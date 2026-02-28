@@ -1,8 +1,12 @@
 # Vue Progress & Charts
 
 Vue 3 + Vite project demonstrating:
-- **Task 1** — Circular SVG progress bar component
-- **Task 2** — Pie chart with Chart.js + custom color picker
+- **Task 1** — Circular SVG progress bar component:
+<img width="1440" height="716" alt="Screenshot 2026-03-01 at 3 22 47 AM" src="https://github.com/user-attachments/assets/a308a034-dc7e-4db2-b7fc-f4f14faf0b7c" />
+
+- **Task 2** — Pie chart with Chart.js + custom color picker:
+<img width="1440" height="716" alt="Screenshot 2026-03-01 at 3 23 01 AM" src="https://github.com/user-attachments/assets/34e33f4a-097f-4856-b908-36ba67ebaf43" />
+
 
 ## Stack
 
